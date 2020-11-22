@@ -1,3 +1,6 @@
+//Inverted pendulum controlled using a PID controller simulation
+//Autor Adrian J Guel-Cortez 2020
+
 float x1=0,x2=0.3,x3=PI+.001,x4=0.2;
 float g=9.81,M = 0.5,m = 0.2,b = 0.1,I = 0.006,l = 0.3,laux=100;
 float kp=100,kd=10,ki=1,k1=-1.0000,k2=-1.6567,k3=18.6854,k4=3.4594;
